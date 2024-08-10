@@ -11,31 +11,34 @@ body {
     margin: auto;
     overflow: hidden;
     background: #fff;
-    padding: 20px;
+    padding: 40px 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-h1, h2, h3 {
+.conditions h1,
+.conditions h2,
+.conditions h3 {
     color: #0056b3;
 }
-h1 {
+.conditions h1 {
     border-bottom: 2px solid #0056b3;
     padding-bottom: 10px;
+    margin-bottom: 15px;
     font-size: 32px;
     font-weight: 700;
 }
-h2 {
+.conditions h2 {
     font-size: 24px;
     font-weight: 700;
 }
-ul {
+.conditions ul {
     list-style-type: disc;
     margin: 10px 0;
     padding-left: 20px;
 }
-li {
+.conditions li {
     margin: 10px 0;
 }
-.section {
+.conditions .section {
     margin-bottom: 20px;
 }

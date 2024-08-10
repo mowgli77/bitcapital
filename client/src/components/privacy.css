@@ -1,21 +1,28 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    margin: 20px;
-    padding: 20px;
     background-color: #f4f4f4;
 }
-.container {
+.container.privacy {
     max-width: 800px;
     margin: 0 auto;
     background: #fff;
-    padding: 20px;
+    padding: 40px 20px;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 .privacy h1, .privacy h2 {
     color: #333;
+}
+.privacy h1 {
+    padding-bottom: 10px;
+    font-size: 32px;
+    font-weight: 700;
+}
+.privacy h2 {
+    font-size: 24px;
+    font-weight: 700;
 }
 .section {
     margin-bottom: 20px;
