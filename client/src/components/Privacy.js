@@ -14,9 +14,9 @@ const Privacy = () => {
 
             <div className="section">
                 <h2>Вступ</h2>
-                <p>Ласкаво просимо на <a href="https://www.trusteeplus.com.ua/">https://www.bcapital.com.ua/</a> (далі
+                <p>Ласкаво просимо на <a href="https://www.trusteeplus.com.ua/">https://bitcapital.uno/</a> (далі
                     «Веб-сайт»). Цей веб-сайт управляється власником сайту <a
-                        href="https://www.bcapital.com.ua/">https://www.bcapital.com.ua/</a>. Відвідувачі – фізичні
+                        href="https://bitcapital.uno/">https://bitcapital.uno/</a>. Відвідувачі – фізичні
                     особи, які відвідують Сайт в мережі Інтернет за допомогою мобільних пристроїв або настільних
                     комп'ютерів.</p>
             </div>
@@ -48,7 +48,7 @@ const Privacy = () => {
             <div className="section">
                 <h2>Відмова від гарантій і відповідальності</h2>
                 <p>Матеріали на цьому Сайті надаються «як є» без жодних гарантій. За жодних обставин Веб-сайт (<a
-                    href="https://www.bcapital.com.ua/">https://www.bcapital.com.ua/</a>) не несе відповідальності за
+                    href="https://bitcapital.uno/">https://bitcapital.uno/</a>) не несе відповідальності за
                     будь-які збитки, що виникли внаслідок використання, неможливості використання або результатів
                     використання цього Веб-сайту.</p>
             </div>
@@ -56,7 +56,7 @@ const Privacy = () => {
             <div className="section contact-info">
                 <h2>Контактна інформація</h2>
                 <p>Якщо у вас є будь-які питання щодо цієї Політики конфіденційності, зв'яжіться з нами за адресою: <a
-                    href="mailto:admin@bcapital.com.ua">admin@bcapital.com.ua</a>.</p>
+                    href="mailto:admin@bitcapital.uno">admin@bitcapital.uno</a>.</p>
             </div>
         </div>
     )

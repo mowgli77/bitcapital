@@ -53,7 +53,7 @@ const Main = () => {
                                 <li className="footer-top__list-item"><a href="tel:+19999999999">+3 8063 999 11 99</a>
                                 </li>
                                 <li className="footer-top__list-item"><a
-                                    href="mailto:admin@yoursite.com">admin@bcapital.com.ua</a></li>
+                                    href="mailto:admin@bitcapital.uno">admin@bitcapital.uno</a></li>
                             </ul>
                         </div>
                         <div className="footer-top__item address">
@@ -81,17 +81,16 @@ const Main = () => {
                                                                            aria-label="YouTube">
                                     <BiLogoYoutube />
                                 </a></li>
-                                {/*<li class="footer-top__social-item"><a href="#" target="blank" aria-label="Linkedin"><svg class="icon-svg"><use xlink:href="img/icon-svg/main.svg#linkedin"></use></svg></a></li>*/}
                             </ul>
                         </div>
                     </div>
                 </div>
                 <div className="footer-bottom">
                     <div className="footer-bottom__container">
-                        <div className="copyright">Сайт bcapital.com.ua є інформаційним ресурсом. Уся інформація, що
+                        <div className="copyright">Сайт bitcapital.uno є інформаційним ресурсом. Уся інформація, що
                             представлена на сайті, має ознайомлювальний характер. Усі рекомендації є результатом
                             аналітичних досліджень і не мають рекламного характеру. Всі зображення та контент взяті з
-                            відкритих джерел. bcapital.com.ua - ми працюємо для вашої користі.© 2024 Copyright.
+                            відкритих джерел. bitcapital.uno - ми працюємо для вашої користі.© 2024 Copyright.
                         </div>
                     </div>
                 </div>
