@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.privacy h1, .privacy h2 {
+    color: #333;
+}
+.section {
+    margin-bottom: 20px;
+}
+.section h2 {
+    margin-top: 0;
+}
+.contact-info {
+    background: #e9ecef;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.privacy a {
+    color: #0056b3;
+    text-decoration: underline;
+}
